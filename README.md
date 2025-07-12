@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## My Name Is Srajan
 ## I am 2nd year Btech student at UVCE
-## I HATE CODING BUT STILL DOING IT !!!!
+## I Love Solving Problems !!!!
 <!--
 **srajanpoojari01/srajanpoojari01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
